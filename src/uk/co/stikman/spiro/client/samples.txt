@@ -1,0 +1,81 @@
+[GreenMess]
+figure mess
+width 3
+colour #00ff00
+circle(1, 200)
+circle(-1, 50)
+circle(-5, 50)
+circle(5, 105)
+circle(-9, 50)
+circle(9, 205)
+circle(-27, 50)
+circle(27, 150)
+circle(-80, 50)
+circle(80, 150)
+end
+
+
+[chakram]
+figure whatever
+colour blue
+circle(1, 400)
+circle(360, 40)
+end
+
+
+[sample1]
+figure outerblue
+colour #0000ff
+circle(1, 400)
+circle(10000, 4)
+end
+
+figure greenstar
+colour #00ff00
+circle(1, 400)
+circle(-10, 50)
+circle(100, 5)
+circle(1000, 20)
+end
+
+
+figure redinner
+colour #ff0000
+circle(1, 400)
+circle(-10, 50)
+circle(100, 5)
+circle(10000, 2)
+end
+
+
+figure offset
+colour #ff00ff
+circle(11, 500)
+circle(81, 50)
+end
+
+figure offset2
+phase 0.52
+colour #ffffff
+circle(11, 500)
+circle(81, 50)
+end
+
+
+[white thing]
+figure i_dunno
+width 2
+colour white
+circle(1, 100)
+circle(2, 100)
+circle(3, 100)
+circle(4, 100)
+circle(5, 100)
+circle(6, 100)
+circle(7, 100)
+circle(8, 100)
+circle(9, 100)
+circle(10, 100)
+end
+
+
